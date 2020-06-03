@@ -1,0 +1,15 @@
+header {
+    height: 400px;
+    background-color: rgba(111, 155, 30, 0.712);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.headercontainer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
